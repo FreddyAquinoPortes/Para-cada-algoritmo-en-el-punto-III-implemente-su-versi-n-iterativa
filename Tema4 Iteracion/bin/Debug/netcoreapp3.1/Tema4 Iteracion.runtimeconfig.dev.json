@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\frequ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\frequ\\.nuget\\packages"
+    ]
+  }
+}
